@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.wrapper-label {
+  width: 100%;
+  margin-right: 10px;
+  text-align: right;
+}
+
+.wrapper-input {
+  display: flex;
+  align-items: center;
+}
+
+.wrapper-input input {
+  padding: 8px 10px;
+  border-style: none;
+  border-radius: 4px;
+}
